@@ -1,6 +1,6 @@
 {
   "name": "sentence-caser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight utility to convert strings to sentence case, ensuring the first letter of each word is capitalized, and the remaining characters are in lowercase.",
   "main": "index.js",
   "scripts": {
