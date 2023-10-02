@@ -1,0 +1,23 @@
+{
+  "name": "sentence-caser",
+  "version": "1.0.0",
+  "description": "A lightweight utility to convert strings to sentence case, ensuring the first letter of each word is capitalized, and the remaining characters are in lowercase.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrukundo256/sentence-caser.git"
+  },
+  "keywords": [
+    "sentence-case",
+    "npm"
+  ],
+  "author": "Jonathan Rukundo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrukundo256/sentence-caser/issues"
+  },
+  "homepage": "https://github.com/jrukundo256/sentence-caser#readme"
+}
