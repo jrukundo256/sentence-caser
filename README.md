@@ -17,7 +17,7 @@ npm install sentence-caser
 
 const sentenceCaser = require('sentence-caser');
 
-const myString = "joNathan euKUNDO";
+const myString = "joNathan ruKUNDO";
 const convertedString = sentenceCaser(myString);
 
 console.log(convertedString); // Outputs: "Jonathan Rukundo"
